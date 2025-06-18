@@ -30,7 +30,7 @@ A Nemo file manager action extension that provides batch image conversion functi
 
 2. Copy the `batch-convert-images/` directory to the same location
 
-3. Restart Nemo file manager
+3. Enjoy
 
 ## Dependencies
 
@@ -45,6 +45,14 @@ Install on Ubuntu/Debian:
 ```bash
 sudo apt install zenity imagemagick file poppler-utils librsvg2-bin
 ```
+
+## Screenshots
+
+![Context Menu](screenshot1.jpg)
+*Right-click context menu showing the batch convert option*
+
+![Format Selection](screenshot2.jpg)
+*Format selection dialog with available output formats*
 
 ## Usage
 
